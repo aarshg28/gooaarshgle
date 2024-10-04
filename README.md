@@ -17,5 +17,4 @@ This project is a simple, responsive browsing homepage built using only HTML and
 - **CSS3**: Responsible for styling the page, including layout, colors, fonts, and responsiveness.
 
 ## To Display the Project
-[
-](https://gooaarshgle.netlify.app/)
+(https://gooaarshgle.netlify.app/)
