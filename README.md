@@ -1,5 +1,3 @@
-# gooaarshgle
-
 # Homepage Replica Project
 
 This project is a simple, responsive browsing homepage built using only HTML and CSS. The goal of this project is to demonstrate proficiency in fundamental web development concepts, such as layout structure, typography, and responsiveness.
